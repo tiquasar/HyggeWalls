@@ -8,7 +8,7 @@ Features of HyggeWalls:<br>
   2.) Search Option to Browse the curated category of Wallpapers.<br>
   3.) Some Popular Wallpaper Categories accessible through the scroll section.<br>
   4.) Beautiful and Minimal Theme Design.<br>
-  5.) <p>Wallpaper can be downloaded to the storage and will be accessible through the gallery app as well as<br>
+  <p>5.) Wallpaper can be downloaded to the storage and will be accessible through the gallery app as well as<br>
 stored in HyggeWalls folder in Device Storage<br></p>
   6.) Lightweight on CPU Resources.<br>
   7.) Link To Tools and Developer Tools Included Under About App Section (Gear Icon).<br>
