@@ -24,3 +24,8 @@ Other architecture links can be found in <a href="https://github.com/tiquasar/Hy
 
 </p>
 
+<h3> Screenshots - Few Screenshots included ,More Screenshots can be found in   <a https://github.com/tiquasar/HyggeWalls/tree/master/App%20Screenshot"> App Screenshots Folder.</a></h3>
+
+
+<img src="https://github.com/tiquasar/HyggeWalls/blob/master/App%20Screenshot/screenshot_3.png" height="600" width="400"  >
+<img src="https://github.com/tiquasar/HyggeWalls/blob/master/App%20Screenshot/screenshot_5.png" height="600" width="400" >
