@@ -4,15 +4,14 @@ A Minimal Wallpapers App Developed in Flutter.<br>
 <p>
 HyggeWalls is a Fast,Minimal and Beautifully designed Wallpaper App.<br>
 Features of HyggeWalls:<br>
-  <p>1.) AmoledDark Theme.<br><p>
-  <p>2.) Search Option to Browse the curated category of Wallpapers.<br><p>
-  <p>3.) Some Popular Wallpaper Categories accessible through the scroll section.<br><p>
-  <p>4.) Beautiful and Minimal Theme Design.<br><p>
-  <p>5.) Wallpaper can be downloaded to the storage and will be accessible through the gallery app as well as<br>
-stored in HyggeWalls folder in Device Storage<br></p>
-  <p>6.) Lightweight on CPU Resources.<br><p>
-  <p>7.) Link To Tools and Developer Tools Included Under About App Section (Gear Icon).<br><p>
-  <p>8.) The App has A dedicated App Review and Bug Report Section.<br><br><p>
+  1.) AmoledDark Theme.<br>
+  2.) Search Option to Browse the curated category of Wallpapers.<br>
+  3.) Some Popular Wallpaper Categories accessible through the scroll section.<br>
+  4.) Beautiful and Minimal Theme Design.<br>
+  5.) Wallpaper can be downloaded to the device storage.<br>
+  6.) Lightweight on CPU Resources.<br>
+  7.) Link To Tools and Developer Tools Included Under About App Section (Gear Icon).<br>
+  8.) The App has A dedicated App Review and Bug Report Section.<br><br>
   Download Links:<br>
 1.)arm64-v8a :https://github.com/tiquasar/HyggeWalls/raw/master/APK-release/app-arm64-v8a-release.apk
   (latest architecture support and efficient)<br>
