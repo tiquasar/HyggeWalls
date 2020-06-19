@@ -28,5 +28,5 @@ Other architecture links can be found in <a href="https://github.com/tiquasar/Hy
 
 
 
-<img src="https://github.com/tiquasar/HyggeWalls/blob/master/App%20Screenshot/screenshot_3.png" style="width:100%  >
-<img src="https://github.com/tiquasar/HyggeWalls/blob/master/App%20Screenshot/screenshot_5.png" style="width:100% >
+<img src="https://github.com/tiquasar/HyggeWalls/blob/master/App%20Screenshot/screenshot_3.png" style="width:100%"  >
+<img src="https://github.com/tiquasar/HyggeWalls/blob/master/App%20Screenshot/screenshot_5.png" style="width:100%" >
