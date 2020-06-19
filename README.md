@@ -12,7 +12,7 @@ Features of HyggeWalls:<br>
   6.) Lightweight on CPU Resources.<br>
   7.) Link To Tools and Developer Tools Included Under About App Section (Gear Icon).<br>
   8.) The App has A dedicated App Review and Bug Report Section.<br><br>
-<p> <b>Note:</b> Due to Scoped Storage Enforcement in Android 10 onwards, <b>the App might crash or go Blank Screen during downloading First wallpaper,this bug is only during downloading first wallpaper,after downloading the first wallpaper and restarting the App ,the App works normally,also App works normally below API LEVEL 29.</b>This bug is due to currently not implemented feature of handling Scoped Storage Enforcement in flutter permission handler. When the flutter permission handler's Scoped Storage Enforcement handeling bug is fixed,the App's Scoped Storage Enforcement handeling bug will also be fixed.</p><br>
+<p> <h3>Note:</h3> Due to Scoped Storage Enforcement in Android 10 onwards, <b>the App might crash or go Blank Screen during downloading First wallpaper,this bug is only during downloading first wallpaper,after downloading the first wallpaper and restarting the App ,the App works normally,also App works normally below API LEVEL 29.</b>This bug is due to currently not implemented feature of handling Scoped Storage Enforcement in flutter permission handler. When the flutter permission handler's Scoped Storage Enforcement handeling bug is fixed,the App's Scoped Storage Enforcement handeling bug will also be fixed.</p><br>
     
   
   <h3> Wallpapers are Provided by PEXELS.COM : https://www.pexels.com/.</h3><br>
