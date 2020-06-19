@@ -13,7 +13,7 @@ Features of HyggeWalls:<br>
   7.) Link To Tools and Developer Tools Included Under About App Section (Gear Icon).<br>
   8.) The App has A dedicated App Review and Bug Report Section.<br><br>
   
-  <h3> Wallpapers are Provided by <a https://www.pexels.com/"> https://www.pexels.com/.</a></h3>
+  <h3> Wallpapers are Provided by <a https://www.pexels.com/"> https://www.pexels.com/.</a></h3><br>
   Download Links:<br>
 1.)arm64-v8a :https://github.com/tiquasar/HyggeWalls/raw/master/APK-release/app-arm64-v8a-release.apk
   (latest architecture support and efficient)<br>
